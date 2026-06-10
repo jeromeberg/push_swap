@@ -4,7 +4,7 @@
 ![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white)
 ![Grade: 100%](https://img.shields.io/badge/Grade-100%25-brightgreen?style=for-the-badge)
 
-An implementation in C of a sorting algorithm using a limited set of operations.
+An implementation in C of a sorting algorithm using a limited set of operations (swap, push, rotate).
 
 ## Implementation
 
