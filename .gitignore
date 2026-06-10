@@ -1,0 +1,6 @@
+*.a
+*.o
+obj/
+push_swap
+*.out
+.DS_Store
